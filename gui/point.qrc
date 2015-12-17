@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/flags">
+        <file alias="dk">assets/flags/dk.png</file>
+        <file alias="en">assets/flags/en.png</file>
+    </qresource>
+    <qresource prefix="/images"/>
+    <qresource prefix="/icons">
+        <file alias="point">assets/icons/orkut_dark.png</file>
+    </qresource>
+</RCC>
